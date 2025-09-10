@@ -21,6 +21,7 @@ currently_learning: ["Machine Learning", "Web Development", "IT Security"]
   [
     "Create/join a few projects",
     "Learn React.js and React Native,"
+	"Learn Test Driven Development (TDD)",
     "Get a bachelor project from an external company",
   ]
  
@@ -58,7 +59,8 @@ hobbies: ["Gaming", "Cinema"]
 	</p>
 </details>
 
-
+[![erska3276's GitHub stats](https://github-readme-stats.vercel.app/api?username=erska3276&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erska3276&theme=gotham&layout=donut&custom_title=Most%20Used%20Languages%20(local%20repositories))](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
