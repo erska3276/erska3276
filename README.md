@@ -1,6 +1,43 @@
 ## Hi there 👋
 
+ABOUT ME
+
+Hello there <emoji>. I'm Erik
+
+
+I am a 33-year-old IT student at OsloMet University in Oslo, currently pursuing my second attempt to become a full-time full-stack developer. I am in my third year (junior) and eager to further enhance my development skills, understanding, and expertise by actively engaging with development communities. My goal is to shift the majority of my learning approach from the more theoretical style taught at university to a more active, hands-on method by contributing to and participating in real-world development projects. This transition will allow me to move beyond isolated student assignments and, hopefully, bridge the gap between being a student and becoming an active developer.
+
 <!--
+I'm currently looking for:
+
+- A project to learn from and develop my skills
+- Skills to contribute to development communities like Github
+- Directly or indirectly a form of guidance and mentorship by others by engaging in communites
+
+
+TECH STACK
+Java
+Python
+
+Javascript
+Html
+Css
+JQuery
+
+MySql
+MariaDB
+
+Bash-scripting
+
+Docker
+Spring boot
+
+PERSONAL MOTIVATION
+Adding a sentence about why you’re passionate about development can make your introduction more memorable. For example:
+	
+	"I’m driven by a passion for creating functional and user-friendly applications that solve 	real-world problems."
+
+
 **erska3276/erska3276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
