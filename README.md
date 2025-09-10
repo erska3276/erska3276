@@ -1,10 +1,10 @@
 <!-- Header -->
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20there!&fontSize=80&fontAlignY=40"/>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Hello%20there!&fontSize=80&fontAlignY=40"/>
 </p>
 
 <h1 align="center">
-  Pleased to meet you 🤝
+  Pleased to meet you 🍵
 </h1>
 
 ---
@@ -82,52 +82,5 @@ hobbies: ["Gaming", "Cinema"]
 
 <!-- Footer -->
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&"/>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer&"/>
 </p>
-
-
-
-<!--
-I'm currently looking for:
-
-- A project to learn from and develop my skills
-- Skills to contribute to development communities like Github
-- Directly or indirectly a form of guidance and mentorship by others by engaging in communites
-
-
-TECH STACK
-Java
-Python
-
-Javascript
-Html
-Css
-JQuery
-
-MySql
-MariaDB
-
-Bash-scripting
-
-Docker
-Spring boot
-
-PERSONAL MOTIVATION
-Adding a sentence about why you’re passionate about development can make your introduction more memorable. For example:
-	
-	"I’m driven by a passion for creating functional and user-friendly applications that solve 	real-world problems."
-
-
-**erska3276/erska3276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
