@@ -1,11 +1,11 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20there&fontSize=80&fontAlignY=40)
 
-ABOUT ME
-
-Hello there <emoji>. I'm Erik
-
-
+<details>
+<summary>About me</summary>
+ 
 I am a 33-year-old IT student at OsloMet University in Oslo, currently pursuing my second attempt to become a full-time full-stack developer. I am in my third year (junior) and eager to further enhance my development skills, understanding, and expertise by actively engaging with development communities. My goal is to shift the majority of my learning approach from the more theoretical style taught at university to a more active, hands-on method by contributing to and participating in real-world development projects. This transition will allow me to move beyond isolated student assignments and, hopefully, bridge the gap between being a student and becoming an active developer.
+
+</details>
 
 <!--
 I'm currently looking for:
