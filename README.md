@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20there&fontSize=80&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20there!&fontSize=80&fontAlignY=40)
 
 <!-- About me (code version) -->
 ```yaml
@@ -59,8 +59,13 @@ hobbies: ["Gaming", "Cinema"]
 	</p>
 </details>
 
-[![erska3276's GitHub stats](https://github-readme-stats.vercel.app/api?username=erska3276&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erska3276&theme=gotham&layout=donut&custom_title=Most%20Used%20Languages%20(local%20repositories))](https://github.com/anuraghazra/github-readme-stats)
+<!-- readme-stat-cards and top-languages-card -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=erska3276&show_icons=true&theme=gotham" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erska3276&layout=compact&theme=gotham&langs_count=8&card_width=320" />
+</a>
 
 
 <!--
