@@ -72,11 +72,11 @@ hobbies: ["Gaming", "Cinema"]
 
 <!-- Readme-stat-cards and top-languages-card -->
 <p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=erska3276&show_icons=true&theme=gotham" />
+	<a href="https://github.com/erska3276/github-readme-stats">
+		<img height=200 align="center" src="https://github-readme-stats-delta-one-70.vercel.app/api?username=erska3276&show_icons=true&theme=gotham" />
 	</a>
-	<a href="https://github.com/anuraghazra/convoychat">
-  	    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erska3276&layout=compact&theme=gotham&langs_count=8&card_width=320" />
+	<a href="https://github.com/erska3276/github-readme-stats">
+  	    <img height=200 align="center" src="https://github-readme-stats-delta-one-70.vercel.app/api/top-langs?username=erska3276&layout=compact&theme=gotham&langs_count=8&card_width=320" />
 	</a>
 </p>
 
