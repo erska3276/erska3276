@@ -1,6 +1,9 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20there!&fontSize=80&fontAlignY=40)
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20there!&fontSize=80&fontAlignY=40"/>
+</p>
 
+---
 <!-- About me (code version) -->
 ```yaml
 name: Erik Skålhegg
@@ -30,14 +33,17 @@ hobbies: ["Gaming", "Cinema"]
 
 <!-- About me (text version)-->
 <details>
-	<summary><h2>About me</h2></summary>
-	I am an IT student at OsloMet University in Oslo, currently pursuing my second attempt at becoming a full-time full-stack developer. I am in my third year (junior) and eager to enhance my development skills, understanding, and expertise by actively engaging with development communities. My goal is to shift from the theoretical approach taught at university to a more hands-on, practical learning method by contributing to and participating in real-world development projects. This transition will help me move beyond isolated student assignments and bridge the gap between being a student and becoming an active developer.
+	<p align="left">
+		<summary><h2>About me</h2></summary>
+		I am an IT student at OsloMet University in Oslo, currently pursuing my second attempt at becoming a full-time full-stack developer. I am in my third year (junior) and eager to enhance my development skills, understanding, and expertise by actively engaging with development communities. My goal is to shift from the theoretical approach taught at university to a more hands-on, practical learning method by contributing to and participating in real-world development projects. This transition will help me move beyond isolated student assignments and bridge the gap between being a student and becoming an active developer.
+	</p>
 </details>
 
+---
 <!-- Tech Stack -->
 <details open>
-	<summary><h2>Tech Stack</h2></summary>
-	<p align="left">
+		<summary><h2>Tech Stack</h2></summary>
+		<p align="left">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="45" height="45"/>  
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="45" height="45"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
@@ -56,16 +62,25 @@ hobbies: ["Gaming", "Cinema"]
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="spring" width="45" height="45"/>
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="git" width="45" height="45"/>
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="github" width="45" height="45"/>
-	</p>
+		</p>
 </details>
+<br>
 
-<!-- readme-stat-cards and top-languages-card -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=erska3276&show_icons=true&theme=gotham" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erska3276&layout=compact&theme=gotham&langs_count=8&card_width=320" />
-</a>
+<!-- Readme-stat-cards and top-languages-card -->
+<p align="center">
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=erska3276&show_icons=true&theme=gotham" />
+	</a>
+	<a href="https://github.com/anuraghazra/convoychat">
+  	    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erska3276&layout=compact&theme=gotham&langs_count=8&card_width=320" />
+	</a>
+</p>
+
+<!-- Footer -->
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&"/>
+</p>
+
 
 
 <!--
