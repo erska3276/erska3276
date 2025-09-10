@@ -1,9 +1,36 @@
+<!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20there&fontSize=80&fontAlignY=40)
+
+<!-- About me (code) -->
+```yaml
+name: Erik Skålhegg
+age: 33  
+located_in: Oslo, Norway  
+current_job: Full-Time Undergraduate Student  
+university: OsloMet  
+
+education:  
+  [  
+    "Self-Taught Programmer and Developer",  
+    "Bachelor in Information Technology"  
+  ]  
+
+currently_learning: ["Machine Learning", "Web Development", "IT Security"]  
+
+2025_goals:
+  [
+    "Create/join a few projects",
+    "Learn React.js and React Native,"
+    "Get a bachelor project from an external company",
+  ]
+ 
+hobbies: ["Gaming", "Cinema"]
+```
 
 <details>
 <summary>About me</summary>
  
-I am a 33-year-old IT student at OsloMet University in Oslo, currently pursuing my second attempt to become a full-time full-stack developer. I am in my third year (junior) and eager to further enhance my development skills, understanding, and expertise by actively engaging with development communities. My goal is to shift the majority of my learning approach from the more theoretical style taught at university to a more active, hands-on method by contributing to and participating in real-world development projects. This transition will allow me to move beyond isolated student assignments and, hopefully, bridge the gap between being a student and becoming an active developer.
+I am an IT student at OsloMet University in Oslo, currently pursuing my second attempt at becoming a full-time full-stack developer. I am in my third year (junior) and eager to enhance my development skills, understanding, and expertise by actively engaging with development communities. My goal is to shift from the theoretical approach taught at university to a more hands-on, practical learning method by contributing to and participating in real-world development projects. This transition will help me move beyond isolated student assignments and bridge the gap between being a student and becoming an active developer.
 
 </details>
 
